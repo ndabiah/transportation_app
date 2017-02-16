@@ -5,4 +5,4 @@ class ApplicationController < ActionController::Base
   def welcome
     render html: "Welcome to our Transportation App!"
   end
-endroot 'application#hello'root 'application#hello'
+end
